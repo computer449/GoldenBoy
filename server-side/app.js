@@ -5,7 +5,7 @@ var bodyParser = require("body-parser");
 var cors = require("cors");
 
 var app = express();
-var mongoDB = "mongodb://localhost:27017";
+var mongoDB = "mongodb+srv://nogaaram1:eFVxkK6F1htzxjiV@cluster.ptkjp.mongodb.net/";
 
 const routes = require("./routes/router").default;
 const goals = require("./src/goal/goalController").default;
