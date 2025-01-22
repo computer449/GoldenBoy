@@ -1,0 +1,72 @@
+[
+	{
+		"name": "במבה (קטנה)",
+		"pic": "../../images/slider_game/bamba.jpg",
+		"price": 4
+	},
+	{
+		"name": "כיכר לחם",
+		"pic": "../../images/slider_game/bread.jpg",
+		"price": 7
+	},
+	{
+		"name": "במסעדה",
+		"pic": "../../images/slider_game/burger.jpeg",
+		"price": 60
+	},
+	{
+		"name": "שוקולד פרה",
+		"pic": "../../images/slider_game/chocolate.jpg",
+		"price": 5
+	},
+	{
+		"name": "בקבוק קולה 1.5 ליטר",
+		"pic": "../../images/slider_game/coke.jpg",
+		"price": 7
+	},
+	{
+		"name": "גביע קוטג'",
+		"pic": "../../images/slider_game/cottage.jpg",
+		"price": 5
+	},
+	{
+		"name": "קילו מלפפונים",
+		"pic": "../../images/slider_game/cucumber.jpg",
+		"price": 6
+	},
+	{
+		"name": "בקבוק פיוז-טי 1.5 ליטר",
+		"pic": "../../images/slider_game/fuzetea.jpg",
+		"price": 7
+	},
+	{
+		"name": "ליטר חלב",
+		"pic": "../../images/slider_game/milk.jpg",
+		"price": 6
+	},
+	{
+		"name": "מילקשייק גדול",
+		"pic": "../../images/slider_game/milkshake.jpg",
+		"price": 32
+	},
+	{
+		"name": "מגש פיצה משפחתי",
+		"pic": "../../images/slider_game/pizza.jpg",
+		"price": 50
+	},
+	{
+		"name": "קילו תפוח אדמה",
+		"pic": "../../images/slider_game/potato.jpg",
+		"price": 4
+	},
+	{
+		"name": "קילו עגבניות",
+		"pic": "../../images/slider_game/tomatoes.png",
+		"price": 6
+	},
+	{
+		"name": "מכונית על שלט",
+		"pic": "../../images/slider_game/racecar.jpg",
+		"price": 70
+	}
+]
