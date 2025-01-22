@@ -7,7 +7,7 @@ var bodyParser = require("body-parser");
 var cors = require("cors");
 
 var app = express();
-var mongoDB = "mongodb+srv://nogaaram1:eFVxkK6F1htzxjiV@cluster.ptkjp.mongodb.net/";
+var mongoDB = "mongodb+srv://nogaaram1:eFVxkK6F1htzxjiV@cluster.ptkjp.mongodb.net";
 
 var routes = require("./routes/router").default;
 var goals = require("./src/goal/goalController").default;
